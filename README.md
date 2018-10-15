@@ -10,6 +10,7 @@ Will you be able to search for any pizza gif.
 The gif search page is a useful tool to look for any gif pizza related.
 
 #========== 2. How to get started? ==========
+Please visit https://nicolaskennof.github.io/07-GifTastic/ and:
 a. Get started by clicking one of the default search or adding yours using the "add" button.
 b. By clicking on the gif it will start its animation.
 c. By clicking again, it will stop the animation of the clicked gif.
