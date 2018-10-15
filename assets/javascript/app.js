@@ -10,7 +10,7 @@ function displayPizzaSearch() {
     var qSearch = $(this).attr("data-name") + " pizza";
     var qSearchForQueryURL = qSearch.replace(" ", "_");
     console.log(qSearchForQueryURL);
-    var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + qSearchForQueryURL + "&api_key=" + apiKey + "&limit=" + limit;
+    var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + qSearchForQueryURL + "&api_key=" + apiKey + "&limit=" + limit;
     console.log(queryURL);
     //$("#results").createNewResultCard();
 
